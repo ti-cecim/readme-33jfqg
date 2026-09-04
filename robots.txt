@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ti-cecim.github.io/readme-33jfqg/sitemap.xml
